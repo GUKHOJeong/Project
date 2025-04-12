@@ -3,7 +3,7 @@
 ### 기후데이터를 이용한 전력량 예측 모델 
 
 
-## Team Main image 
+## Team Main Image 
 <img src="https://github.com/GUKHOJeong/EST_Project/blob/main/First_Project/energy_consumption_prediction/image/cat_lightning.png?raw=true" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="cat_lightning"></img>
 
 
