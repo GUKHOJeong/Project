@@ -1,5 +1,6 @@
-# Subject 
-기후데이터를 이용한 전력량 예측 모델 
+# Project
+
+##### 기후데이터를 이용한 전력량 예측 모델 
 ---
 
 ## Team Main image 
