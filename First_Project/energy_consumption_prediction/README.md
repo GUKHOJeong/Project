@@ -57,4 +57,8 @@
 
 
 ## Project Team Member 
- Jeong Gukho, Jeong Woogun, Kim Hyungeun, Kim Juneon, Kim Soo Min 
+- [Jeong Gukho](https://github.com/GUKHOJeong/)
+- [Jeong Woogun]()
+- [Kim Hyungeun](https://github.com/hyungeunkk)
+- [Kim Juneon]()
+- [Kimm Soo Min](https://github.com/somnio-kimm)
