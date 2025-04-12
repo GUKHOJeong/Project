@@ -1,6 +1,6 @@
 # First Project
 ### Team Main image 
-<img src="!https://github.com/GUKHOJeong/EST_Project/blob/main/First_Project/energy_consumption_prediction/image/cat_lightning.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="cat_lightning"></img>
+<img src="https://github.com/GUKHOJeong/EST_Project/blob/main/First_Project/energy_consumption_prediction/image/cat_lightning.png?raw=true" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="cat_lightning"></img>
 
 ### Project Team Member 
  Jeong Gukho, Jeong Woogun, Kim Hyungeun, Kim Juneon, Kim Soo Min 
