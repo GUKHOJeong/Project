@@ -8,7 +8,7 @@
 
 
 ## Project Structure 
-'''
+```
 ├──  Data 
     ├── Cleaned
         ├──  preprocessed Weather
@@ -25,7 +25,7 @@
     ├── Second_test : 대부분의 모델링을 돌리는 코드(작성자가 주로 사용)
 ├── data_extraction:데이터 추출 코드
 ├── energy_consumption_prediction : 메인 코드 
-'''
+```
 
 
 ## Data 
