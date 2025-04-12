@@ -1,4 +1,6 @@
 # First Project
+## Team Main image 
+<img src="cat_lightning.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 ## Project Team Member:Jeong Gukho, Jeong Woogun, Kim Hyungeun, Kim Juneon, Kim Soo Min 
 
 ## Subject : 기후데이터를 이용한 전력량 예측모델
