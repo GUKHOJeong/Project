@@ -4,7 +4,7 @@
 
 
 ## Team Main Image 
-<img src="https://github.com/GUKHOJeong/EST_Project/blob/main/First_Project/energy_consumption_prediction/image/cat_lightning.png?raw=true" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="cat_lightning"></img>
+<img src="https://github.com/GUKHOJeong/EST_Project/blob/main/First_Project/energy_consumption_prediction/image/cat_lightning.png?raw=true" width="60%" height="40%" title="px(픽셀) 크기 설정" alt="cat_lightning"></img>
 
 
 
