@@ -50,7 +50,8 @@ Linear Regressor,Elastic Net,SVR,Decision Tree Regressor,RandomForest Regressor,
 
 
 ## university Space
-##### ETC: 자세한 정보는 [WorkSpace1](https://github.com/GUKHOJeong/EST_Project/tree/main/workspace1)
+##### ETC 
+ 자세한 정보는 [WorkSpace1](https://github.com/GUKHOJeong/EST_Project/tree/main/workspace1)
 
 ## ETC code 
 Naver_News_API : 네이버 API를 통한 네이버 뉴스 크롤링 
